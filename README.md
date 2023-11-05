@@ -29,9 +29,12 @@ Ce projet est une application de gestion des étudiants développée avec Spring
 ![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/6b6c0eb5-2b32-4089-b57c-2ec91eabb401)
 
 
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/f0054605-b44f-43c5-a93b-c7058b6d9da4)
+
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/cc76f73d-11e5-45c8-a1fc-6078ea80080d)
 
 
-
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/c8c687ae-75c7-4719-8623-f080eef16e47)
 
 
   
