@@ -25,17 +25,14 @@ Ce projet est une application de gestion des étudiants développée avec Spring
   
 ## <u>**Captures d'écrans**</u>
 
-
-![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/6b6c0eb5-2b32-4089-b57c-2ec91eabb401)
-
-
-![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/f0054605-b44f-43c5-a93b-c7058b6d9da4)
-
-![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/cc76f73d-11e5-45c8-a1fc-6078ea80080d)
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/775be33d-9319-4558-b45e-6a8119a3326a)
 
 
-![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/c8c687ae-75c7-4719-8623-f080eef16e47)
+### <u>**Swagger Student API**</u>
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/9e99f29a-af53-42a5-be0c-0adc6f06cf51)
 
-![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/84e3b41b-dce7-4acf-a460-b64ab45291f6)
+### <u>**Swagger Filliere API**</u>
 
-  
+![image](https://github.com/ayouboifikEnsaj/tp_springBoot/assets/107751911/bf9c57a4-6a1d-48b6-894a-2e335dfb7b1e)
+
+
